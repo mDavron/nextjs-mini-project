@@ -38,6 +38,10 @@ header {
 }
 
 footer {
+  position: absolute;
+  bottom: 0;
+
+  width: 100%;
   background-image: linear-gradient(
     to bottom,
     rgba(0, 0, 0, 0.7),
