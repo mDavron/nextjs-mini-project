@@ -19,6 +19,7 @@ body {
 
 main {
   padding: 20px;
+  min-height: calc(100vh - 200px);
 }
 
 header,
@@ -38,8 +39,8 @@ header {
 }
 
 footer {
-  position: absolute;
-  bottom: 0;
+  // position: absolute;
+  // bottom: 0;
 
   width: 100%;
   background-image: linear-gradient(
