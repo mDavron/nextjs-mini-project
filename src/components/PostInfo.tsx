@@ -1,5 +1,5 @@
 import React from "react";
-import Heading from "./Heading";
+import Heading from "../components/Heading";
 
 const PostInfo = ({ post }) => {
   const { title, body } = post || {};
